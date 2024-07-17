@@ -4,6 +4,7 @@ Gen AI with LLMs on Coursera (Labs)
 
 **WEEK 1**
 Generative AI use cases, project lifecycle, and model pre-training
+
 Learning Objectives
 Discuss model pre-training and the value of continued pre-training vs fine-tuning
 Define the terms Generative AI, large language models, prompt, and describe the transformer architecture that powers LLMs
